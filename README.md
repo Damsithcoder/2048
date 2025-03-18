@@ -23,6 +23,8 @@ The goal of the game is to combine numbered tiles to eventually create a tile wi
 *   **On-screen Buttons:** Use the arrow buttons on the game interface.
 *   **Reset Button:** Restarts the game, clearing the board and score.
 
+## Live preview 
+[2048 ](https://damsithcoder.github.io/2048)
 ## Technologies Used
 
 *   React
